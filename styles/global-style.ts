@@ -20,7 +20,7 @@ export const GlobalStyle = createGlobalStyle`
             font-size: 10px;
         }
         -ms-overflow-style: none;
-        scrollbar-width: none;
+        /* scrollbar-width: none; */
     }
     button {
         background: none;
